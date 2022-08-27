@@ -1,27 +1,35 @@
 ## BN fork
 
-![Build Status](https://github.com/BonnierNews/react-bootstrap-table2/actions/workflows/node.js.yml/badge.svg)
+![Build Status](https://github.com/Menogus/react-bootstrap-table2/actions/workflows/node.js.yml/badge.svg)
 
 This is a fork of Allen Fangs [react-bootstrap-table2](https://github.com/react-bootstrap-table/react-bootstrap-table2) repo, which is the repo for [react-bootstrap-table-next](https://www.npmjs.com/package/react-bootstrap-table-next) on npm.
+(also forked from https://github.com/BonnierNews/react-bootstrap-table2)
 
 That repo seems to have been abandoned, so this fork was created simply to keep packages up to date with security fixes.
 
 Specific packages from this repo can be used via [gitpkg.now.sh](https://gitpkg.now.sh/):
-e.g (packages from tag v1.0.0 in this repo):
+e.g (packages from tag master in this repo):
 
-`yarn add https://gitpkg.now.sh/BonnierNews/react-bootstrap-table2/packages/react-bootstrap-table2?v1.0.0`
+`yarn add https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2?master`
 
-`yarn add https://gitpkg.now.sh/BonnierNews/react-bootstrap-table2/packages/react-bootstrap-table2-editor?v1.0.0`
+`yarn add https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2-editor?master`
 
-`yarn add https://gitpkg.now.sh/BonnierNews/react-bootstrap-table2/packages/react-bootstrap-table2-filter?v1.0.0`
+`yarn add https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2-filter?master`
+
+`yarn add https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2-toolkit?master`
+
+`yarn add https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2-paginator?master`
 
 
 Or by adding directly to package.json. 
-e.g (packages from tag v1.0.0 in this repo)
+e.g (packages from tag master in this repo)
 ```
-    "react-bootstrap-table-next": "https://gitpkg.now.sh/BonnierNews/react-bootstrap-table2/packages/react-bootstrap-table2?v1.0.0",
-    "react-bootstrap-table2-editor": "https://gitpkg.now.sh/BonnierNews/react-bootstrap-table2/packages/react-bootstrap-table2-editor?v1.0.0",
-    "react-bootstrap-table2-filter": "https://gitpkg.now.sh/BonnierNews/react-bootstrap-table2/packages/react-bootstrap-table2-filter?v1.0.0",
+    "react-bootstrap-table-next": "https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2?master",
+    "react-bootstrap-table2-editor": "https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2-editor?master",
+    "react-bootstrap-table2-filter": "https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2-filter?master",
+    "react-bootstrap-table2-paginator": "https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2-paginator?master",
+    "react-bootstrap-table2-toolkit": "https://gitpkg.now.sh/Menogus/react-bootstrap-table2/packages/react-bootstrap-table2-toolkit?master",
+  
 ```
 
 # release new version of BN Fork
