@@ -6,8 +6,7 @@ Esta es una bifurcación del repositorio react-bootstrap-table2 de Allen Fang, q
 
 Esta bifurcación se creó simplemente para pruebas, no deberia usarse en produccion...
 
-Specific packages from this repo can be used via [gitpkg.now.sh](https://gitpkg.now.sh/):
-e.g (packages from tag master in this repo):
+Los paquetes específicos de este repositorio se pueden usar a través de gitpkg.now.sh: por ejemplo (paquetes del maestro de etiquetas en este repositorio): 
 
 `yarn add https://gitpkg.now.sh/intersoftsistemas/react-bootstrap-table2/packages/react-bootstrap-table2?master`
 
@@ -20,8 +19,8 @@ e.g (packages from tag master in this repo):
 `yarn add https://gitpkg.now.sh/intersoftsistemas/react-bootstrap-table2/packages/react-bootstrap-table2-paginator?master`
 
 
-Or by adding directly to package.json. 
-e.g (packages from tag master in this repo)
+O agregando directamente a package.json.
+por ejemplo (paquetes la rama master en este repositorio)
 ```
     "react-bootstrap-table-next": "https://gitpkg.now.sh/intersoftsistemas/react-bootstrap-table2/packages/react-bootstrap-table2?master",
     "react-bootstrap-table2-editor": "https://gitpkg.now.sh/intersoftsistemas/react-bootstrap-table2/packages/react-bootstrap-table2-editor?master",
